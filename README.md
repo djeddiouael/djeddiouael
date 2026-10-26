@@ -8,43 +8,109 @@
 
 ###
 
+<h3 align="center">🤖 Artificial Intelligence & Data Science</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="scikit-learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="55" alt="keras logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55" alt="scikitlearn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="55" alt="opencv logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="numpy logo" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="55" alt="anaconda logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="55" alt="matlab logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="55" alt="plotly logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="55" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="55" alt="flask logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="55" alt="django logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo" />
 </div>
+
+<br/>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="bash logo" />
+</div>
+
+<br/>
+
+<h3 align="center">🖥️ Computer Systems & Infrastructure</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="55" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="55" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo" />
+</div>
+
+<br/>
+
+<h3 align="center">🗄️ Databases & Cloud</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="55" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="55" alt="googlecloud logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55" alt="azure logo" />
+</div>
+
+<br/>
 
 ###
 
